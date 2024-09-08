@@ -7,7 +7,7 @@
 
 ### 量化讀書會  
 *Technologies Used: Python, C++*  
-與三位同學共同創立的每週讀書會，專注於量化交易知識與相關論文的討論與研究。近期討論主題包括：
+與三位在臺大 TMBA 認識的夥伴共同創立的讀書會，專注於量化交易知識與相關論文的討論與研究。近期討論主題包括：
 
 - **建立 CTA 策略池和回測框架**  
   在 BTC-USDT 永續合約上實作 Momentum/Reversal 純價量策略，並開發基於 Open Interest、Premium Index、Market Cap 等特徵的策略。
