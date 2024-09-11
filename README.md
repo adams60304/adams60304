@@ -1,6 +1,4 @@
-# Hi 👋
-
-## About Me
+# About Me
 I'm Jack，數學人，專業涵蓋純/應數領域，熱衷於研究數據與現象背後的 insight。近期 focus 在量化交易，主題橫跨配對交易、因子模型建構與探勘、CTA 策略 etc。
 
 ## Projects
