@@ -3,7 +3,7 @@
 I'm currently pursuing my M.Sc. in Mathematics at *National Tsing Hua University*. My expertise spans **financial engineering**, **large-scale matrix computation**, and **algebraic number theory**. Lately, I’ve been focusing on **quantitative trading**. Below, you'll find some of my key projects and research topics, where I apply both theoretical and practical approaches to uncover insights.
 
 ### Quantitative Trading Study Group
-Together with partners from NTU’s TMBA program, I co-founded a study group dedicated to exploring quantitative trading strategies. Some of our recent projects include:
+Together with partners from **NTU TMBA** program, I co-founded a study group dedicated to exploring quantitative trading strategies. Some of our recent projects include:
 - **Building a CTA Strategy Pool and Backtesting Framework**
 - **Pairs Trading Implementation**
 - Factor Model Development
