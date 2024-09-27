@@ -1,5 +1,6 @@
-# About Me
-I'm Jack，數學人，專業涵蓋純/應數領域，熱衷於研究數據與現象背後的 insight。近期 focus 在量化交易，主題橫跨配對交易、因子模型建構與探勘、CTA 策略 etc。
+## Welcome 
+
+I'm Jack, currently pursuing my M.Sc. in Mathematics at National Tsing Hua University. My expertise spans financial engineering, matrix computation, and pure mathematics. Lately, I’ve been focusing on quantitative trading, specifically in pair trading, factor model development, and CTA strategies. Below, you'll find some of my key projects and research topics, where I apply both theoretical and practical approaches to uncover insights.
 
 ## Projects
 
