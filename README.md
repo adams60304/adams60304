@@ -1,45 +1,28 @@
-## Welcome 
+## Hi there 👋, I'm Jack 
 
-I'm Jack, currently pursuing my M.Sc. in Mathematics at National Tsing Hua University. My expertise spans financial engineering, matrix computation, and pure mathematics. Lately, I’ve been focusing on quantitative trading, specifically in pair trading, factor model development, and CTA strategies. Below, you'll find some of my key projects and research topics, where I apply both theoretical and practical approaches to uncover insights.
+I'm currently pursuing my M.Sc. in Mathematics at *National Tsing Hua University*. My expertise spans **financial engineering**, **large-scale matrix computation**, and **algebraic number theory**. Lately, I’ve been focusing on **quantitative trading**. Below, you'll find some of my key projects and research topics, where I apply both theoretical and practical approaches to uncover insights.
 
-## Projects
+### Quantitative Trading Study Group
+Together with partners from NTU’s TMBA program, I co-founded a study group dedicated to exploring quantitative trading strategies. Some of our recent projects include:
+- **Building a CTA Strategy Pool and Backtesting Framework**
+- **Pairs Trading Implementation**
+- Factor Model Development
 
-### 量化讀書會  
-*Technologies Used: Python, C++*  
-與三位在臺大 TMBA 認識的夥伴共同創立的讀書會，專注於量化交易知識與相關論文的討論與研究。近期討論主題包括：
+### Matrix Computation & Data Science
+I have also worked on matrix computation algorithms and data science projects, using advanced techniques to improve efficiency and scalability:
+- **Algorithms for Large-Scale Matrix Computation**
+  Implemented algorithms such as **SVM**, **$k$-means clustering**, **SVD**, and **Alternating Nonnegative Least Square algorithm (ANLS)**, integrated with large matrix algorithms like **Bi-CG**, **GMRES**, **Arnoldi iteration**, and **Jacobi-Davidson** to optimize performance.
 
-- **建立 CTA 策略池和回測框架**  
-  在 BTC-USDT 永續合約上實作 Momentum/Reversal 純價量策略，並開發基於 Open Interest、Premium Index、Market Cap 等特徵的策略。
+### NCTS Symposium: Computation of $\pi$
+I presented at the **National Center for Theoretical Sciences (NCTS)** on numerical optimization methods for the convergence of $\pi$, utilizing Monte Carlo techniques to improve computational speed and accuracy.
 
-- **Pair Trading 實作**  
-  挖掘台/美股市場中高度共整合的標的進行配對交易，例如：TWSE 麗臺 (2465) / NASDAQ SMCI，並根據學術論文進行策略優化。
-
-- **因子模型建構**  
-  驗證 Fama-French 五因子模型在台股市場中的適用性，並運用機器學習技術挖掘與分類其他因子，進行檢驗與驗證。
-
----
-
-### 矩陣計算 & 數據科學專題  
-*Technologies Used: MATLAB*  
-基於圖像計算，實作 SVM、k-means clustering、SVD 和 ANLS 等演算法，並結合大型矩陣計算演算法如 Bi-CG、GMRES、Arnoldi iteration、Jacobi-Davidson。深入分析這些算法的收斂行為與性能優化。
-
----
-
-### NCTS symposium：Computation of $\pi$  
-*Technologies Used: MATLAB*  
-受黃聰明教授推薦，於國家理論科學研究中心 (NCTS) 進行報告，探討與圓周率 \(\pi\) 收斂值相關的級數，結合 Monte Carlo 方法優化數值計算並提升收斂速度。
-
----
-
-### 代數數論專題：Gauss and Jacobi Sums  
-由夏良忠教授指導，研究 Gauss 和 Jacobi 和在等冪和解的應用，並整理關於費馬平方和定理的組合模型。
+### Algebraic Number Theory
+I explored **Gauss and Jacobi sums** and their applications in solving power residue problems, while contributing to combinatorial models for the **Fermat Two-Square Theorem**.
 
 ## Education
-- **國立清華大學** 數學系碩士班 純數組  
-  *September 2024 - June 2026 (預計)*
-
-- **國立臺灣師範大學** 數學系 & 科學計算學分學程  
+- **National Tsing Hua University** - M.Sc. in Mathematics (Pure Mathematics Track)
+  *September 2024 - June 2026 (expected)*
+- **National Taiwan Normal University** - B.Sc. in Mathematics & Certificate in Scientific Computing
   *September 2020 - June 2024*
-
-- **國立臺南第一高級中學**  
-  *September 2016 - June 2019*
+- **Tainan First Senior High School**
+  *September 2016 - June 2019
