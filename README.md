@@ -20,8 +20,8 @@ I presented at the **National Center for Theoretical Sciences (NCTS)** on numeri
 I explored **Gauss and Jacobi sums** and their applications in solving power residue problems, while contributing to combinatorial models for the **Fermat Two-Square Theorem**.
 
 ## Education
-- **National Tsing Hua University** - M.Sc. in Mathematics (Pure Mathematics Track)
-  *September 2024 - June 2026 (expected)*
+- **National Tsing Hua University** - M.Sc. in Mathematics
+- September 2024 - June 2026 (expected)
 - **National Taiwan Normal University** - B.Sc. in Mathematics & Certificate in Scientific Computing
   *September 2020 - June 2024*
 - **Tainan First Senior High School**
