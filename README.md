@@ -1,4 +1,4 @@
-## Hi there 👋, I'm Jack 
+## Hi 👋, I'm Jack 
 
 I'm currently pursuing my M.Sc. in Mathematics at *National Tsing Hua University*. My expertise spans **financial engineering**, **large-scale matrix computation**, and **number theory**. Lately, I’ve been focusing on **quantitative trading**.
 
