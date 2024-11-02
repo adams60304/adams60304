@@ -1,6 +1,6 @@
 ## Hi there 👋, I'm Jack 
 
-I'm currently pursuing my M.Sc. in Mathematics at *National Tsing Hua University*. My expertise spans **financial engineering**, **large-scale matrix computation**, and **number theory**. Lately, I’ve been focusing on **quantitative trading**. Below, you'll find some of my key projects and research topics, where I apply both theoretical and practical approaches to uncover insights.
+I'm currently pursuing my M.Sc. in Mathematics at *National Tsing Hua University*. My expertise spans **financial engineering**, **large-scale matrix computation**, and **number theory**. Lately, I’ve been focusing on **quantitative trading**.
 
 ---
 - **Quantitative Trading Study Group**\
